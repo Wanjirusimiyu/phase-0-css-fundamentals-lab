@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color:red
+}
+header{
+  text-align: center;
+}
+div{
+  display: grid;
+  place-items: center;
+  flex-direction: row;
+  
+}
+nav{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+figcaption{
+  font-size: 15px;
+  text-align: center;
+}
+p {
+  width: 800px;
+  text-align: center;
+}
+section{
+  display: grid;
+  flex direction: position: row-gap: 20px;;
+}
+ 
